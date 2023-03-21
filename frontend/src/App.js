@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import "./App.css";
 import Footer from "./components/Footer";
 import HomeScreen from "./screens/HomeScreen";
-import ProductScreen from "./components/ProductScreen";
+import ProductScreen from "./screens/ProductScreen";
 
 function App() {
   return (
